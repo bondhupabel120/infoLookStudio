@@ -1,0 +1,333 @@
+
+.border{border: 1px solid green;}
+
+.body{
+    width: 1170px;
+}
+
+.img-responsive{
+    width: 65%;
+    height: 88%;
+}
+
+@media screen  and (min-width: 550px){
+    .col-xs-1{width: 8.33%;}
+    .col-xs-2{width: 16.66%;}
+    .col-xs-3{width: 25%;}
+    .col-xs-4{width: 33.33%;}
+    .col-xs-5{width: 41.66%;}
+    .col-xs-6{width: 50%;}
+    .col-xs-7{width: 58.33%;}
+    .col-xs-8{width: 66.66%;}
+    .col-xs-9{width: 75%;}
+    .col-xs-10{width: 83.33%;}
+    .col-xs-11{width: 91.66%;}
+    .col-xs-12{width: 100%;}
+
+}
+
+/*----Menubar----*/
+
+.logo{
+    height: 41px;
+    width: 240px;
+}
+
+.menu-color{
+    color: black;
+    font: 17px Nunito;
+}
+
+.get-a-question{
+    height: 50px;
+    width: 260px;
+    border-radius: 5px;
+    font: bold 25px Nunito;
+}
+
+/*----Banner----*/
+
+.web-application-image{
+    background-image: url("../images/development-full.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.web-written{
+    padding-top: 55px;
+    font: 60px Nunito;
+    color: white;
+}
+
+.web-written-two{
+    padding-top: 0px;
+    font: 20.6px Nunito;
+    color: white;
+    padding-bottom: 65px;
+}
+
+.development-font{
+    font: bold 60px Nunito;
+}
+
+/*----Main content----*/
+
+.card{
+    height: 565px;
+}
+
+.image-one-background{
+    background-color: #508e3f;
+    height: 180px;
+}
+
+.image-two-background{
+    background-color: #9f9e35;
+    height: 180px;
+}
+
+.image-three-background{
+    background-color: #f36e20;
+    height: 180px;
+}
+
+.image-four-background{
+    background-color: #f5ad1a;
+    height: 180px;
+}
+
+.image-five-background{
+    background-color: #f5921e;
+    height: 180px;
+}
+
+.image-six-background{
+    background-color: #dc4726;
+    height: 180px;
+}
+
+.image-content{
+    margin: 12px 60px;
+}
+
+
+.main-menu-header{
+    font: 25px Nunito;
+    padding-top: 25px;
+    padding-left: 28px;
+    color: #7b7b7b;
+}
+
+.main-menu-written{
+    padding-left: 28px;
+    font: 16px Nunito;
+    color: #4a4a4a;
+}
+
+.button-one{
+    height: 55px;
+    width: 165px;
+    padding-top: 15px;
+    background-color: #029ce5;
+    font: 17px Nunito;
+    margin: auto;
+}
+
+.button-two{
+    height: 55px;
+    width: 165px;
+    padding-top: 15px;
+    background-color: #029ce5;
+    font: 17px Nunito;
+    margin: auto;
+}
+
+/*----Build your dream section----*/
+
+.dream-image{
+    background-image: url("../images/full-dream1.png");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+
+}
+
+.dream-written{
+    padding-top: 60px;
+    font: 60px Nunito;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.dream-website-font{
+    font: bold 60px Nunito;
+}
+
+.search{
+    padding-bottom: 80px;
+}
+
+.search-button{
+    background-color: #029ce5;
+    padding-top: 13px;
+}
+
+/*----We care your need section----*/
+
+.we-care-title{
+    color: #4a4a4a;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    font: 35px Nunito;
+}
+
+.card-option-one{
+    background-color: #edf3eb;
+    border-radius: 7px;
+    height: 285px;
+    width: 265px;
+}
+
+.card-option-two{
+    background-color: #f5f5ea;
+    border-radius: 7px;
+    height: 285px;
+    width: 265px;
+}
+
+.card-option-three{
+    background-color: #fef4e8;
+    border-radius: 7px;
+    height: 285px;
+    width: 265px;
+}
+
+.fa-option{
+    padding-left: 18px;
+    padding-right: 8px;
+    float: left;
+}
+
+.strategy-option{
+    padding-top: 28px;
+    font: 25px Nunito;
+    float: left;
+}
+
+.strategy-written{
+    font: 16px Nunito;
+    padding-left: 10px;
+}
+
+
+/*----Contact Us File section----*/
+
+.contact-image{
+    background-image: url("../images/contact-image.png");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 82px;
+}
+
+
+.contact-written{
+    padding-top: 82px;
+    font: 60px Nunito;
+    color: white;
+}
+
+/*----contact number----*/
+
+.contact-section-background{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.phone-number{
+    font: 16px Nunito;
+    padding-top: 13px;
+}
+
+.space{
+    padding-left: 28px;
+}
+
+.fa-background-one{
+    background-color: #508e3f;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    padding-top: 9px;
+    border-radius: 7px;
+}
+
+.fa-background-two{
+    background-color: #9f9e35;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    padding-top: 9px;
+    border-radius: 7px;
+}
+
+.fa-background-three{
+    background-color: #f5921e;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    padding-top: 9px;
+    border-radius: 7px;
+    float: left;
+}
+
+/*----Get in touch section----*/
+
+.get-background{
+    background-color: #f5f5f5;
+    height: 100%;
+    width: 100%;
+}
+
+.get-written {
+    font: 60px Nunito;
+    color: #4a4a4a;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.your-font{
+    font: bold 60px Nunito;
+    color: #4a4a4a;
+}
+
+.information-box{
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+
+.file-color{
+    background-color: #a5c49c;
+}
+
+.send-color{
+    background: #6cae5b;
+    color: white;
+    padding-top: 10px;
+}
+
+
+.map{
+    width: 100%;
+    height: 100%;
+}
